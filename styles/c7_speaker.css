@@ -81,6 +81,10 @@ header img {
 	float: none;
 }
 
+#nav_menu ul li:hover . ul {
+	display: block;
+}
+
 #nav_menu ul::after {
 	content: "";
 	clear: both;
