@@ -89,6 +89,11 @@ header img {
 	clear: both;
 	display: block;
 }
+
+main {
+	clear: left;
+}
+
 /* the styles for the section */
 section {
 	width: 525px;
